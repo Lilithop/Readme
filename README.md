@@ -48,12 +48,3 @@
   <img src="https://count.getloli.com/@:Lilithop?theme=booru-qualityhentais&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31unpodryartz6pzxvgwgcr64dhq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=YEGH&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
